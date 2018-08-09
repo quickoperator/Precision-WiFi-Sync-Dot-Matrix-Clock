@@ -8,12 +8,19 @@ Part list
 - Dupont cables
 
 1- Download and install Arduino IDE
+
 2- Download and install NodeMCU Py Flasher
+
 3- Download and install ch340g or cp2102 USB driver
+
 4- Flash firmware with firmware "nodemcu-master-22-modules-2018-03-30-21-50-21-float.bin"
+
 5- Open file "ESP_LEDMatrix_clock.ino" and enter your WiFi SSID & Password
+
 6- Upload your project to NodeMCU
+
 7- Connect dupont cables to Max7219
+
     Vc Red   + from power adapter
     Gnd Brown  - from power adapter
     D3 Yellow CS
@@ -21,5 +28,7 @@ Part list
     D7 Orange DIN
     
 8- Connect Gnd (-) & Vin (+) from 6V power adapter
+
 9- Cut box and glue MAx7219 with hot glue !
+
   
