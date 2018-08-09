@@ -1,4 +1,4 @@
-# Precision-WiFi-Sync-Dot-Matrix-Clock
+# Precision WiFi Sync Dot Matrix Clock
 
 Part list
 - Nodemcu V3
@@ -13,10 +13,13 @@ Part list
 4- Flash firmware with firmware "nodemcu-master-22-modules-2018-03-30-21-50-21-float.bin"
 5- Open file "ESP_LEDMatrix_clock.ino" and enter your WiFi SSID & Password
 6- Upload your project to NodeMCU
-7- Connect dupont cables
-    Vcc Red   
-    Gnd Brown
+7- Connect dupont cables to Max7219
+    Vc Red   + from power adapter
+    Gnd Brown  - from power adapter
     D3 Yellow CS
     D5 Green CLK
     D7 Orange DIN
+    
+8- Connect Gnd (-) & Vin (+) from 6V power adapter
+9- Cut box and glue MAx7219 with hot glue !
   
