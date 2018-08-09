@@ -9,7 +9,9 @@ Part list
 
 1- Download and install Arduino IDE
     Install ESP8266 library --> Preference --> Additional board manager URL
+
     Put this URL: http://arduino.esp8266.com/stable/package_esp8266com_index.json
+
     -->Tools --> Board: --> Boards manager -->Search "esp8266"
     
 2- Download and install NodeMCU Py Flasher
