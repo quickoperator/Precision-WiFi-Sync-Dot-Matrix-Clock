@@ -21,7 +21,7 @@ Part list
 
 7- Connect dupont cables to Max7219
 
-    Vc Red   + from power adapter
+    Vcc Red   + from power adapter
     Gnd Brown  - from power adapter
     D3 Yellow CS
     D5 Green CLK
