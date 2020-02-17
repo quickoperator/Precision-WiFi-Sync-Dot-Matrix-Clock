@@ -1,4 +1,4 @@
-# Precision WiFi Sync Dot Matrix Clock
+# Precision WiFi Sync Dot Matrix Clock with NTP and WiFi Manager
 
 Part list
 - Nodemcu V3
