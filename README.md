@@ -20,7 +20,7 @@ Part list
 
 4- Flash firmware with firmware "nodemcu-master-22-modules-2018-03-30-21-50-21-float.bin"
 
-5- Open file "ESP_LEDMatrix_clock.ino" and enter your WiFi SSID & Password
+5- Open file "ESP_LEDMatrix_Clock_NTP_WM.ino"
 
 6- Upload your project to NodeMCU
 
